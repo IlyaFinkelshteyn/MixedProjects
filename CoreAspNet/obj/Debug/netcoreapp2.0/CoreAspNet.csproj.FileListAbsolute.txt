@@ -1,0 +1,11 @@
+c:\users\ilya\Source\Repos\MixedProjects\CoreAspNet\bin\Debug\netcoreapp2.0\CoreAspNet.deps.json
+c:\users\ilya\Source\Repos\MixedProjects\CoreAspNet\bin\Debug\netcoreapp2.0\CoreAspNet.runtimeconfig.json
+c:\users\ilya\Source\Repos\MixedProjects\CoreAspNet\bin\Debug\netcoreapp2.0\CoreAspNet.runtimeconfig.dev.json
+c:\users\ilya\Source\Repos\MixedProjects\CoreAspNet\bin\Debug\netcoreapp2.0\CoreAspNet.dll
+c:\users\ilya\Source\Repos\MixedProjects\CoreAspNet\bin\Debug\netcoreapp2.0\CoreAspNet.pdb
+c:\users\ilya\Source\Repos\MixedProjects\CoreAspNet\obj\Debug\netcoreapp2.0\CoreAspNet.csprojAssemblyReference.cache
+c:\users\ilya\Source\Repos\MixedProjects\CoreAspNet\obj\Debug\netcoreapp2.0\CoreAspNet.csproj.CoreCompileInputs.cache
+c:\users\ilya\Source\Repos\MixedProjects\CoreAspNet\obj\Debug\netcoreapp2.0\CoreAspNet.AssemblyInfoInputs.cache
+c:\users\ilya\Source\Repos\MixedProjects\CoreAspNet\obj\Debug\netcoreapp2.0\CoreAspNet.AssemblyInfo.cs
+c:\users\ilya\Source\Repos\MixedProjects\CoreAspNet\obj\Debug\netcoreapp2.0\CoreAspNet.dll
+c:\users\ilya\Source\Repos\MixedProjects\CoreAspNet\obj\Debug\netcoreapp2.0\CoreAspNet.pdb
