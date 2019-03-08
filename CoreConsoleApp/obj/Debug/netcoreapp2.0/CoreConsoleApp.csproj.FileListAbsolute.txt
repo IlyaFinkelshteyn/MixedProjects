@@ -14,7 +14,6 @@ C:\Projects\MixedProjects\CoreConsoleApp\bin\Debug\netcoreapp2.0\CoreConsoleApp.
 C:\Projects\MixedProjects\CoreConsoleApp\bin\Debug\netcoreapp2.0\CoreConsoleApp.runtimeconfig.dev.json
 C:\Projects\MixedProjects\CoreConsoleApp\bin\Debug\netcoreapp2.0\CoreConsoleApp.dll
 C:\Projects\MixedProjects\CoreConsoleApp\bin\Debug\netcoreapp2.0\CoreConsoleApp.pdb
-C:\Projects\MixedProjects\CoreConsoleApp\obj\Debug\netcoreapp2.0\CoreConsoleApp.csprojAssemblyReference.cache
 C:\Projects\MixedProjects\CoreConsoleApp\obj\Debug\netcoreapp2.0\CoreConsoleApp.csproj.CoreCompileInputs.cache
 C:\Projects\MixedProjects\CoreConsoleApp\obj\Debug\netcoreapp2.0\CoreConsoleApp.AssemblyInfoInputs.cache
 C:\Projects\MixedProjects\CoreConsoleApp\obj\Debug\netcoreapp2.0\CoreConsoleApp.AssemblyInfo.cs
