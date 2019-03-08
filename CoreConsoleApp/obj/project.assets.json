@@ -676,11 +676,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\ilya\\Source\\Repos\\MixedProjects\\CoreConsoleApp\\CoreConsoleApp.csproj",
+      "projectUniqueName": "C:\\Projects\\MixedProjects\\CoreConsoleApp\\CoreConsoleApp.csproj",
       "projectName": "CoreConsoleApp",
-      "projectPath": "c:\\users\\ilya\\Source\\Repos\\MixedProjects\\CoreConsoleApp\\CoreConsoleApp.csproj",
+      "projectPath": "C:\\Projects\\MixedProjects\\CoreConsoleApp\\CoreConsoleApp.csproj",
       "packagesPath": "C:\\Users\\ilya\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\ilya\\Source\\Repos\\MixedProjects\\CoreConsoleApp\\obj\\",
+      "outputPath": "C:\\Projects\\MixedProjects\\CoreConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
